@@ -5,6 +5,12 @@
  * $ npm install @react-navigation/native-stack
  * [Tab Navigation]
  * $ npm install @react-navigation/bottom-tabs
+ * [Styled Components]
+ * $ npm install styled-components
+ * [Adding TypeScript to an Existing Project]
+ * $ npm install -D typescript @types/jest @types/react @types/react-native @types/react-test-renderer
+ * [Adding TypeScript for Styled-Components]
+ * npm install --save @types/styled-components @types/styled-components-react-native
  *
  * $ npx pod-install ios
  */
